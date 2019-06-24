@@ -1,0 +1,13 @@
+﻿@model HackprClean.Models.FormData
+@{
+    ViewBag.Title = "Opportunities";
+}
+<h2>Notify Volunteers:</h2>
+@using (Html.BeginForm("TwilioMessageData", "Opportunities", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    <p>@Html.Label("Message:") @Html.TextBoxFor(model => model.TextBoxStringData)</p>
+
+    <input type="submit" value="Send message" />
+}
+
