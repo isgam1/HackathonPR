@@ -1,9 +1,9 @@
 # HackathonPR
-Hackathon web in Bootstrap, jQuery and Asp.net 
+Hackathon web en Bootstrap, jQuery and Asp.net 
 
-This project is focused on strengthening and helping non-profit organizations and disadvantaged communities,
-through the development and application of computer technology and entrepreneurship.
-I developed a web page where users can register and log in.
-On the opportunities page using Twilio the person can send messages if they have their registered number and
-those messages would reach him via WhatsApp
+Desarrollé una aplicación con ASP.NET y Bootstrap y algo de jQuery.
+Este proyecto está enfocado en fortalecer y ayudar a las organizaciones sin fines de lucro y comunidades desventajadas, mediante el desarrollo y aplicación de tecnología informática y de empresarismo.
+Desarrollé una página web donde los usuarios pueden registrarse e iniciar sesión.
+En la página de oportunidades usando Twilio la persona puede enviar mensajes si tiene su número registrado y esos mensajes le llegarían vía WhatsApp.
+
 
